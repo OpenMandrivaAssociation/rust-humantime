@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        2.1.0
-Release:        1
+Release:        2
 Summary:        Parser and formatter for std::time::{Duration, SystemTime}
 
 # Upstream license specification: MIT/Apache-2.0
